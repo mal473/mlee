@@ -1,0 +1,24 @@
+body{
+    background:pink;
+    color:#FF33F0;
+    margin:100px;
+}
+
+p{
+    color:white;
+}
+
+.words{
+    font-weight:900;
+    color:white;
+}
+
+p.words{
+    color:white;
+}
+
+img{
+    border:1px solid #ddd;
+    border-radius:4px;
+    padding:5px;
+}
